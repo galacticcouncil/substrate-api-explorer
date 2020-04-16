@@ -22,7 +22,7 @@
     "polished": "3.5.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-hooks-lib": "0.0.20",
+    "react-hooks-lib": "0.1.5",
     "react-inlinesvg": "1.2.0",
     "react-redux": "7.2.0",
     "react-router-dom": "5.1.2",

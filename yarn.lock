@@ -6545,6 +6545,11 @@ lodash.debounce@^4.0.8:
   resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
   integrity sha1-gteb/zCmfEAF/9XiUVMArZyk168=
 
+lodash.isequal@^4.5.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/lodash.isequal/-/lodash.isequal-4.5.0.tgz#415c4478f2bcc30120c22ce10ed3226f7d3e18e0"
+  integrity sha1-QVxEePK8wwEgwizhDtMib30+GOA=
+
 lodash.memoize@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/lodash.memoize/-/lodash.memoize-4.1.2.tgz#bcc6c49a42a2840ed997f323eada5ecd182e0bfe"
@@ -8204,10 +8209,13 @@ react-helmet-async@^1.0.2:
     react-fast-compare "^2.0.4"
     shallowequal "^1.1.0"
 
-react-hooks-lib@0.0.20:
-  version "0.0.20"
-  resolved "https://registry.yarnpkg.com/react-hooks-lib/-/react-hooks-lib-0.0.20.tgz#885938665dd342daa452a94465f66ab03fad7386"
-  integrity sha512-SeTOp23ADtWu/mi4TSHawAKZl0oq7M4JJBifgxUAtG4CtopQOW+fceutA0TyRR1NqSM0wo1bAdXNSIInsAbzqw==
+react-hooks-lib@0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/react-hooks-lib/-/react-hooks-lib-0.1.5.tgz#819c595770c88f4c1cc9040a6f70dda9cb69a72c"
+  integrity sha512-+ALJNRCWbX/emZWj/bDXYwN6h+8+SWbUmFJWjwdcAM5boQ7cDXTwL/syctcSTPpyMh4oE+p97rruGbOVFgq/+Q==
+  dependencies:
+    lodash.isequal "^4.5.0"
+    shallowequal "^1.1.0"
 
 react-hotkeys@2.0.0:
   version "2.0.0"
