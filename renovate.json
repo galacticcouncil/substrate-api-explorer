@@ -2,7 +2,7 @@
   "extends": ["config:base"],
   "packageRules": [
     {
-      "packageNames": ["^polkadot/api", "@polkadot/types", "@polkadot/ts"],
+      "packageNames": ["@polkadot/api", "@polkadot/types", "@polkadot/ts"],
       "updateTypes": ["minor", "patch", "pin", "digest", "bump"],
       "automerge": true,
       "prPriority": 5,
