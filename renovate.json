@@ -4,7 +4,8 @@
     {
       "packageNames": ["^polkadot/api", "@polkadot/types", "@polkadot/ts"],
       "updateTypes": ["minor", "patch", "pin", "digest", "bump"],
-      "automerge": true
+      "automerge": true,
+      "prPriority": 5
     }
   ]
 }
