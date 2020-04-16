@@ -5,7 +5,8 @@
       "packageNames": ["^polkadot/api", "@polkadot/types", "@polkadot/ts"],
       "updateTypes": ["minor", "patch", "pin", "digest", "bump"],
       "automerge": true,
-      "prPriority": 5
+      "prPriority": 5,
+      "groupName": "polkadot-js-api"
     }
   ]
 }
