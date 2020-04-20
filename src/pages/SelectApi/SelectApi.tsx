@@ -26,7 +26,7 @@ const SelectApi = ({ onSetApi }: Props) => {
 
   const options = [
     'wss://kusama-rpc.polkadot.io/',
-    'wss://testnet5.edgewa.re',
+    'wss://mainnet2.edgewa.re',
     'wss://testnet.plasmnet.io',
     'wss://substrate-rpc.parity.io/',
     'custom',
