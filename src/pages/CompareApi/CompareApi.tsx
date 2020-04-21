@@ -49,7 +49,7 @@ const CompareApi = ({ onSetApi, onDisconnectApi, match }: Props) => {
     'wss://testnet5.edgewa.re',
     'wss://testnet.plasmnet.io',
     'wss://substrate-rpc.parity.io/',
-    'Custom',
+    'custom',
   ]
 
   if (isLocal) options.unshift('ws://127.0.0.1:9944')
@@ -57,13 +57,13 @@ const CompareApi = ({ onSetApi, onDisconnectApi, match }: Props) => {
   const currentApiComputedUrl = api.current.url
     ? options.includes(api.current.url)
       ? api.current.url
-      : 'Custom'
+      : 'custom'
     : options[0]
   const [currentApiUrl, setCurrentApiUrl] = useState<UiOptionType>(
     currentApiComputedUrl
   )
   const [customCurrentApiUrl, setCustomCurrentApiUrl] = useState<string>(
-    currentApiComputedUrl === 'Custom' ? api.current.url : 'wss://'
+    currentApiComputedUrl === 'custom' ? api.current.url : 'wss://'
   )
 
   const [customCurrentApiTypes, setCustomCurrentApiTypes] = useState<string>('')
@@ -84,7 +84,7 @@ const CompareApi = ({ onSetApi, onDisconnectApi, match }: Props) => {
   useDidMount(handleResetCompareApi)
 
   const handleSubmitCurrentApi = () => {
-    const currentApiIsCustom = currentApiUrl === 'Custom'
+    const currentApiIsCustom = currentApiUrl === 'custom'
     let customTypes = ''
     let url = currentApiUrl as string
     if (currentApiIsCustom) {
@@ -97,12 +97,12 @@ const CompareApi = ({ onSetApi, onDisconnectApi, match }: Props) => {
   }
 
   const handleSubmitCompareApi = () => {
-    const compareApiIsCustom = compareApiUrl === 'Custom'
+    const compareApiIsCustom = compareApiUrl === 'custom'
     let customTypes = ''
     let url = compareApiUrl as string
     if (compareApiIsCustom) {
-      url = customCurrentApiUrl
-      customTypes = customCurrentApiTypes
+      url = customCompareApiUrl
+      customTypes = customCompareApiTypes
     }
 
     onSetApi(url, customTypes, 'compare', '')
@@ -173,7 +173,7 @@ const CompareApi = ({ onSetApi, onDisconnectApi, match }: Props) => {
               onChange={setCurrentApiUrl}
               options={options}
             />
-            <Dropdown isOpen={currentApiUrl === 'Custom'}>
+            <Dropdown isOpen={currentApiUrl === 'custom'}>
               <S.FormInput
                 type="text"
                 placeholder="Custom Node URL"
@@ -204,7 +204,7 @@ const CompareApi = ({ onSetApi, onDisconnectApi, match }: Props) => {
               onChange={setCompareApiUrl}
               options={options}
             />
-            <Dropdown isOpen={compareApiUrl === 'Custom'}>
+            <Dropdown isOpen={compareApiUrl === 'custom'}>
               <S.FormInput
                 type="text"
                 placeholder="Custom Node URL"

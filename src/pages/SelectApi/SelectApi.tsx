@@ -37,18 +37,18 @@ const SelectApi = ({ onSetApi }: Props) => {
   const computedApiUrl = api.current.url
     ? options.includes(api.current.url)
       ? api.current.url
-      : 'Custom'
+      : 'custom'
     : options[0]
 
   const [apiUrl, setApiUrl] = useState<UiOptionType>(computedApiUrl)
   const [customApiUrl, setCustomApiUrl] = useState<string>(
-    computedApiUrl === 'Custom' ? api.current.url : 'wss://'
+    computedApiUrl === 'custom' ? api.current.url : 'wss://'
   )
 
   const [customApiTypes, setCustomApiTypes] = useState<string>('')
 
   const handleSubmit = () => {
-    const isCustomUrl = apiUrl === 'Custom'
+    const isCustomUrl = apiUrl === 'custom'
     let customTypes = ''
     let url = apiUrl as string
     if (isCustomUrl) {

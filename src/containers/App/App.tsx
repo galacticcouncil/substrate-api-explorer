@@ -91,7 +91,6 @@ const AppContainer = () => {
     redirectTo?: string | object
   ) => {
     dispatch(showLoadingAction())
-
     if (!isWsAddress(url)) {
       showError(
         'The provided WebSocket address is not valid. Please correct it and try again.'
