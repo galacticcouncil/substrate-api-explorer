@@ -16,7 +16,7 @@
     "@polkadot/api": "1.12.2",
     "core-js": "3.6.5",
     "deep-object-diff": "1.1.0",
-    "edgeware-node-types": "2.0.1",
+    "edgeware-node-types": "2.1.0",
     "lodash": "4.17.15",
     "object-scan": "13.0.1",
     "polished": "3.5.2",
