@@ -20,19 +20,14 @@ type Props = {
 const SelectApi = ({ onSetApi }: Props) => {
   const api = useSelector(apiSelector)
 
-  const isLocal =
-    window.location.hostname == 'localhost' ||
-    window.location.hostname == '127.0.0.1'
-
   const options = [
     'wss://kusama-rpc.polkadot.io/',
     'wss://mainnet2.edgewa.re',
     'wss://testnet.plasmnet.io',
     'wss://substrate-rpc.parity.io/',
+    'ws://127.0.0.1:9944',
     'custom',
   ]
-
-  if (isLocal) options.unshift('ws://127.0.0.1:9944')
 
   const computedApiUrl = api.current.url
     ? options.includes(api.current.url)
