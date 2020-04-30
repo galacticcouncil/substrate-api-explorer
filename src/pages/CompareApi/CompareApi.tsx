@@ -40,19 +40,14 @@ const CompareApi = ({ onSetApi, onDisconnectApi, match }: Props) => {
     updated: {},
   })
 
-  const isLocal =
-    window.location.hostname == 'localhost' ||
-    window.location.hostname == '127.0.0.1'
-
   const options = [
     'wss://kusama-rpc.polkadot.io/',
     'wss://testnet5.edgewa.re',
     'wss://testnet.plasmnet.io',
     'wss://substrate-rpc.parity.io/',
+    'ws://127.0.0.1:9944',
     'custom',
   ]
-
-  if (isLocal) options.unshift('ws://127.0.0.1:9944')
 
   const currentApiComputedUrl = api.current.url
     ? options.includes(api.current.url)
