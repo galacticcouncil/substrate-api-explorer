@@ -1333,12 +1333,12 @@
     isomorphic-fetch "^2.2.1"
     websocket "^1.0.31"
 
-"@polkadot/ts@0.3.19":
-  version "0.3.19"
-  resolved "https://registry.yarnpkg.com/@polkadot/ts/-/ts-0.3.19.tgz#913acbcf64a7ec1872c35b7eeac384af9fe4f648"
-  integrity sha512-7+N3AbpC6K7qxalJkgMdgRZYldhfkFpQ6IRTo426Xukvpf1Anc4GrFBXBWfZhZ+EJT5A8Ufqc3IoL5bVtplSsg==
+"@polkadot/ts@0.3.20":
+  version "0.3.20"
+  resolved "https://registry.yarnpkg.com/@polkadot/ts/-/ts-0.3.20.tgz#f82bbb30a00b50af6dbe75c3883518cac1694f7f"
+  integrity sha512-6Z/katov979S+ZY1lp1A1Y99ONQ/HFnNcby1ZQSaZxShOj3wRIyc2utjnLLldJLYwOgP4Uq9DU+AtK4HcKKoVw==
   dependencies:
-    "@types/chrome" "^0.0.106"
+    "@types/chrome" "^0.0.107"
 
 "@polkadot/types-known@1.13.1":
   version "1.13.1"
@@ -1985,10 +1985,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/chrome@^0.0.106":
-  version "0.0.106"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.106.tgz#bf1f75215ac06bae6f7c3a7c05d2826d67b85f3c"
-  integrity sha512-sCQa+QJL/Kl+6ngU4xD1VjTFIkQDizOHN94zbb7byK9D3U79x/KXjqXyS7lHoa2q9xw3bWePb+giLhBKOILRuA==
+"@types/chrome@^0.0.107":
+  version "0.0.107"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.107.tgz#0719eff4fa4424e034621a2b772545a966364526"
+  integrity sha512-7z/4YkJu4B8ROxZhbzIx5olbRJqzoDdAoMhSzcJlElsZzv2eTxsvxNkN/QFq0ClbAFNkFf07XVoTrWFHD12QyA==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
