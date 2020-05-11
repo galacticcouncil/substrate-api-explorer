@@ -19,7 +19,7 @@
     "edgeware-node-types": "2.1.0",
     "lodash": "4.17.15",
     "object-scan": "13.0.2",
-    "polished": "3.5.2",
+    "polished": "3.6.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-hooks-lib": "0.1.5",
