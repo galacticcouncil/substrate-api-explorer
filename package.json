@@ -18,7 +18,7 @@
     "deep-object-diff": "1.1.0",
     "edgeware-node-types": "2.2.0",
     "lodash": "4.17.15",
-    "object-scan": "13.0.3",
+    "object-scan": "13.1.0",
     "polished": "3.6.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
