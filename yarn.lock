@@ -1442,10 +1442,10 @@
     isomorphic-fetch "^2.2.1"
     websocket "^1.0.31"
 
-"@polkadot/ts@0.3.24":
-  version "0.3.24"
-  resolved "https://registry.yarnpkg.com/@polkadot/ts/-/ts-0.3.24.tgz#cfe6f30f1c78afe1fce483d46434059bd16e678d"
-  integrity sha512-WTe7RBG7nkOZfwOf/+HUmeoAoVlQVgAjM3xbbSMNadbIgw6Phq4Pgt40fKl4OR/ZrJkEwm8UCAJiu1xOJnG+iA==
+"@polkadot/ts@0.3.25":
+  version "0.3.25"
+  resolved "https://registry.yarnpkg.com/@polkadot/ts/-/ts-0.3.25.tgz#64633d9cdd3728f795aeba4efb8a520c7cd060b4"
+  integrity sha512-iewwIFUvj3SV8CW4iaonTb+HBhIv+Ow4hOnfQAlOMupiE5tCzdISbABarVi7ThE+nxJkGLNGt48jMS7GeEgllw==
   dependencies:
     "@types/chrome" "^0.0.114"
 
