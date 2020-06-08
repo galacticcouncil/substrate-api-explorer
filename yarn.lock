@@ -8659,6 +8659,11 @@ prepend-http@^1.0.0:
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"
   integrity sha1-1PRWKwzjaW5BrFLQ4ALlemNdxtw=
 
+prettier@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.5.tgz#d6d56282455243f2f92cc1716692c08aa31522d4"
+  integrity sha512-7PtVymN48hGcO4fGjybyBSIWDsLU4H4XlvOHfq91pz9kkGlonzwTfYkaIEwiRg/dAJF9YlbsduBAgtYLi+8cFg==
+
 pretty-error@^2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/pretty-error/-/pretty-error-2.1.1.tgz#5f4f87c8f91e5ae3f3ba87ab4cf5e03b1a17f1a3"
@@ -10000,15 +10005,23 @@ store2@^2.7.1:
   resolved "https://registry.yarnpkg.com/store2/-/store2-2.11.0.tgz#307636a239014ef4d8f1c8b47afe903509484fc8"
   integrity sha512-WeIZ5+c/KzBSutSqOjUCAkk1qTLVBcYUuvrhNx8ndjLZKdZRfP6Vv7AOxlynuL6tVU/6zt6e2CTHwWI5KE+fKg==
 
-storybook-addon-react-docgen@1.2.34:
-  version "1.2.34"
-  resolved "https://registry.yarnpkg.com/storybook-addon-react-docgen/-/storybook-addon-react-docgen-1.2.34.tgz#a58dd9aa343099254ba1538b88eccbf72212ad0b"
-  integrity sha512-ImI7zc0hrsvLyq0kYwcMmZNDjRa4UoPOEBGxOs8e0mJSQESEgt4lv/p2QeCPd4iRjj2QaoPhjpw6308vDAXMpA==
+storybook-addon-react-docgen@1.2.35:
+  version "1.2.35"
+  resolved "https://registry.yarnpkg.com/storybook-addon-react-docgen/-/storybook-addon-react-docgen-1.2.35.tgz#cbece9df94004db95047933defb2fc7e9054b9b7"
+  integrity sha512-tqWh1apJrczBaRNnxpKldI56EbZAtgKhDkRMqPoKq8b6bALfZwsjBiSbNtvL4G27S4Tag8YjWdLAKbxXBTpVoQ==
   dependencies:
     nested-object-assign "^1.0.3"
     prop-types "^15.6.2"
     react-addons-create-fragment "^15.6.2"
     react-lifecycles-compat "^3.0.4"
+    storybook-pretty-props "^1.1.1"
+
+storybook-pretty-props@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/storybook-pretty-props/-/storybook-pretty-props-1.1.1.tgz#91066f72217b897f6fb4bab41d43e54399111a23"
+  integrity sha512-JAYqbzxBXD1TGbU/h10KQ6iozuRNsz/rUs8NNFGwJS+B2X3rUom787OaEZpM4nhLauUGUf4/UU5F9L2clWe8QA==
+  dependencies:
+    prettier "^2.0.5"
 
 stream-browserify@^2.0.1:
   version "2.0.2"
