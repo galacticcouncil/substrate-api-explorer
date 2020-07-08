@@ -17,7 +17,7 @@
     "core-js": "3.6.5",
     "deep-object-diff": "1.1.0",
     "edgeware-node-types": "2.3.0",
-    "lodash": "4.17.15",
+    "lodash": "4.17.16",
     "object-scan": "13.1.1",
     "polished": "3.6.5",
     "react": "16.13.1",
