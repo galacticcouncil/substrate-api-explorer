@@ -10115,10 +10115,10 @@ store2@^2.7.1:
   resolved "https://registry.yarnpkg.com/store2/-/store2-2.11.0.tgz#307636a239014ef4d8f1c8b47afe903509484fc8"
   integrity sha512-WeIZ5+c/KzBSutSqOjUCAkk1qTLVBcYUuvrhNx8ndjLZKdZRfP6Vv7AOxlynuL6tVU/6zt6e2CTHwWI5KE+fKg==
 
-storybook-addon-react-docgen@1.2.41:
-  version "1.2.41"
-  resolved "https://registry.yarnpkg.com/storybook-addon-react-docgen/-/storybook-addon-react-docgen-1.2.41.tgz#eabf0b8ea9b06a8c09f48ee47bbe53fb2453a226"
-  integrity sha512-/C9qZgO3Jt/H96NfzGQxQHYUTPneY67WQNFj+ZddyWTnhzQXg3mPKy4Bgk+uTJi2N8bOtOb9V+PwNvD1Ot+Ycg==
+storybook-addon-react-docgen@1.2.42:
+  version "1.2.42"
+  resolved "https://registry.yarnpkg.com/storybook-addon-react-docgen/-/storybook-addon-react-docgen-1.2.42.tgz#01b3d782612627304ae077c98bf6f5fce3fecb5b"
+  integrity sha512-STQ7HU4+N8zaOHgwNkElABuqsnbXQMVckh6rroTU2pqdP10oQQ+rVfIbLX3wEFg5bbQk1FUzc/DNR0kSJtUASw==
   dependencies:
     nested-object-assign "^1.0.3"
     prop-types "^15.6.2"
