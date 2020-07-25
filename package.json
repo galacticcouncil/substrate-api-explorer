@@ -24,7 +24,7 @@
     "react-dom": "16.13.1",
     "react-hooks-lib": "0.2.0",
     "react-inlinesvg": "2.0.0",
-    "react-redux": "7.2.0",
+    "react-redux": "7.2.1",
     "react-router-dom": "5.2.0",
     "redux": "4.0.5",
     "styled-components": "5.1.1"
