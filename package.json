@@ -60,7 +60,7 @@
     "csstype": "2.6.11",
     "eslint": "7.5.0",
     "eslint-config-prettier": "6.11.0",
-    "eslint-plugin-react": "7.20.3",
+    "eslint-plugin-react": "7.20.4",
     "eslint-plugin-react-hooks": "4.0.8",
     "html-webpack-plugin": "4.3.0",
     "redux-devtools-extension": "2.13.8",
