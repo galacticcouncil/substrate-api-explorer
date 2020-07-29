@@ -4855,10 +4855,10 @@ csso@^4.0.2:
   dependencies:
     css-tree "1.0.0-alpha.39"
 
-csstype@2.6.12:
-  version "2.6.12"
-  resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.12.tgz#970d1c66b88be6a3556f4b7e96eea58ffca03831"
-  integrity sha512-DnvwpyMPL7qCwG0JCdm/Kv0z1TYQfDSAJe1K4bb73PqsOTYwix55Tyju1YNePMdNcr4ornwdp9f5FzBebY2mUA==
+csstype@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.0.0.tgz#b5cdbf2af48449e9266f6dff517f793187ef6103"
+  integrity sha512-7PVEkxNUupmIdJflngQ4EHLYIrAiGEeFiR5gcv0QJRLPcPIUY0m353C7i5xwWgZyKytIaqrIMLOOh+OhUs70pw==
 
 csstype@^2.2.0, csstype@^2.5.7, csstype@^2.6.7:
   version "2.6.10"
