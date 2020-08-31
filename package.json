@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "GalacticCouncil",
   "dependencies": {
-    "@babel/polyfill": "7.10.4",
+    "@babel/polyfill": "7.11.5",
     "@polkadot/api": "1.31.2",
     "core-js": "3.6.5",
     "deep-object-diff": "1.1.0",
@@ -30,10 +30,10 @@
     "styled-components": "5.1.1"
   },
   "devDependencies": {
-    "@babel/core": "7.11.4",
+    "@babel/core": "7.11.5",
     "@babel/plugin-proposal-optional-chaining": "7.11.0",
-    "@babel/plugin-transform-runtime": "7.11.0",
-    "@babel/preset-env": "7.11.0",
+    "@babel/plugin-transform-runtime": "7.11.5",
+    "@babel/preset-env": "7.11.5",
     "@babel/preset-react": "7.10.4",
     "@babel/preset-typescript": "7.10.4",
     "@polkadot/ts": "0.3.40",
