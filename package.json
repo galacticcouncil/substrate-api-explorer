@@ -13,7 +13,7 @@
   "author": "GalacticCouncil",
   "dependencies": {
     "@babel/polyfill": "7.11.5",
-    "@polkadot/api": "2.1.1",
+    "@polkadot/api": "2.2.1",
     "core-js": "3.6.5",
     "deep-object-diff": "1.1.0",
     "edgeware-node-types": "2.3.0",
@@ -37,7 +37,7 @@
     "@babel/preset-react": "7.10.4",
     "@babel/preset-typescript": "7.10.4",
     "@polkadot/ts": "0.3.49",
-    "@polkadot/types": "2.1.1",
+    "@polkadot/types": "2.2.1",
     "@storybook/addon-a11y": "6.0.26",
     "@storybook/addon-actions": "6.0.25",
     "@storybook/addon-backgrounds": "6.0.26",
