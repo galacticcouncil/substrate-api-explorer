@@ -56,7 +56,7 @@
     "@typescript-eslint/parser": "4.4.1",
     "babel-loader": "8.1.0",
     "copy-webpack-plugin": "5.1.2",
-    "css-loader": "4.3.0",
+    "css-loader": "5.0.0",
     "csstype": "3.0.3",
     "eslint": "7.11.0",
     "eslint-config-prettier": "6.12.0",
