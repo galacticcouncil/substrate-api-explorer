@@ -9351,10 +9351,10 @@ object-keys@^1.0.11, object-keys@^1.0.12, object-keys@^1.1.1:
   resolved "https://registry.yarnpkg.com/object-keys/-/object-keys-1.1.1.tgz#1c47f272df277f3b1daf061677d9c82e2322c60e"
   integrity sha512-NuAESUOUMrlIXOfHKzD6bpPu3tYt3xvjNdRIQ+FeT0lNb4K8WR70CaDxhuNguS2XG+GjkyMwOzsN5ZktImfhLA==
 
-object-scan@13.3.9:
-  version "13.3.9"
-  resolved "https://registry.yarnpkg.com/object-scan/-/object-scan-13.3.9.tgz#c2000db1732f0cbafff8ec304f739f432f179ee0"
-  integrity sha512-Fj1x3aP1jUGtz/CQ8JTl6Is9zCkl6xnaK5PRdQk19YTkHfn/Wx8V2KiglJWx1ijjBUeiKDKK/RGnnJh9vucL4w==
+object-scan@13.4.1:
+  version "13.4.1"
+  resolved "https://registry.yarnpkg.com/object-scan/-/object-scan-13.4.1.tgz#4c9e66daa1cdf5ea19d73b2021ed8709748f9ead"
+  integrity sha512-Sfvw1WrKpwZNOSFsoLKHl5ltULz2/7s4RoB2JaxO2KwcXT/yIIuRsZsTjN3f72SIZ7Jkm9Oi/n7T/TiKSscgew==
 
 object-visit@^1.0.0:
   version "1.0.1"
