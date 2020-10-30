@@ -9510,10 +9510,10 @@ object-keys@^1.0.11, object-keys@^1.0.12, object-keys@^1.1.1:
   resolved "https://registry.yarnpkg.com/object-keys/-/object-keys-1.1.1.tgz#1c47f272df277f3b1daf061677d9c82e2322c60e"
   integrity sha512-NuAESUOUMrlIXOfHKzD6bpPu3tYt3xvjNdRIQ+FeT0lNb4K8WR70CaDxhuNguS2XG+GjkyMwOzsN5ZktImfhLA==
 
-object-scan@13.6.3:
-  version "13.6.3"
-  resolved "https://registry.yarnpkg.com/object-scan/-/object-scan-13.6.3.tgz#afe223edad0f925c5bcfd3ee8f985e839625473a"
-  integrity sha512-u6UxiTJFJ0fEpW+anJOLk1Aju9Y9rom3V7gUeW2pFhFa7SqT+GbEKNJtHH/qiUOvatlS29H9tPuEWYTx5I8mEg==
+object-scan@13.6.5:
+  version "13.6.5"
+  resolved "https://registry.yarnpkg.com/object-scan/-/object-scan-13.6.5.tgz#04236ca6f201d7fe8efb16964bf226ee44c232c7"
+  integrity sha512-/ryrO7CWtPDHGhENEG2T1A2YVV/LCuQQuzVn1URJ2qK1YRkX8A5OQxUK2MR/xxaj7Yo94DKzQLtyrN1IqCixXQ==
 
 object-visit@^1.0.0:
   version "1.0.1"
