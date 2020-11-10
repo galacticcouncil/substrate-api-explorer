@@ -54,7 +54,7 @@
     "@types/styled-components": "5.1.4",
     "@typescript-eslint/eslint-plugin": "4.7.0",
     "@typescript-eslint/parser": "4.7.0",
-    "babel-loader": "8.2.0",
+    "babel-loader": "8.2.1",
     "copy-webpack-plugin": "5.1.2",
     "css-loader": "5.0.1",
     "csstype": "3.0.4",
