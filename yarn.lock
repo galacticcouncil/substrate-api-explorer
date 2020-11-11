@@ -2506,10 +2506,10 @@
     bn.js "^5.1.3"
     eventemitter3 "^4.0.7"
 
-"@polkadot/ts@0.3.53":
-  version "0.3.53"
-  resolved "https://registry.yarnpkg.com/@polkadot/ts/-/ts-0.3.53.tgz#3a16b389a646f4c3a8a5ab278f3de393ff0f1c49"
-  integrity sha512-ptBfd9EZ76x9SzD4aCvQWfmxk0571alzldGFbIDzQtmgLwKnsNkRj3ZJAv7TZiv7Kl9RUifY37gQNhQI2x/oxA==
+"@polkadot/ts@0.3.54":
+  version "0.3.54"
+  resolved "https://registry.yarnpkg.com/@polkadot/ts/-/ts-0.3.54.tgz#f6597209c24a561643deedaaef4ac83c92e73f4c"
+  integrity sha512-Qfvb4C+4ulBDJC8RYgPDUZh50biGEYRmnTDr7CmScJWgqgc9YznhSZ54NGql8oq4LftJRiDZVpaR6Widk3EO3A==
   dependencies:
     "@types/chrome" "^0.0.125"
 
