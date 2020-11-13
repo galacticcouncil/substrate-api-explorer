@@ -57,7 +57,7 @@
     "babel-loader": "8.2.1",
     "copy-webpack-plugin": "5.1.2",
     "css-loader": "5.0.1",
-    "csstype": "3.0.4",
+    "csstype": "3.0.5",
     "eslint": "7.13.0",
     "eslint-config-prettier": "6.15.0",
     "eslint-plugin-react": "7.21.5",
