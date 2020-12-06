@@ -14,7 +14,7 @@
   "dependencies": {
     "@babel/polyfill": "7.12.1",
     "@polkadot/api": "2.9.1",
-    "core-js": "3.8.0",
+    "core-js": "3.8.1",
     "deep-object-diff": "1.1.0",
     "edgeware-node-types": "2.3.0",
     "lodash": "4.17.20",
