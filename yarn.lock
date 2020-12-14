@@ -9818,10 +9818,10 @@ react-focus-lock@^2.1.0:
     use-callback-ref "^1.2.1"
     use-sidecar "^1.0.1"
 
-react-from-dom@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/react-from-dom/-/react-from-dom-0.5.0.tgz#66b6f67132f7f5bdbae248e968b45d8b79af9bf6"
-  integrity sha512-Vk0H+XW1oKrqS8bhq1ynG0zgLufUcDQ+CUwJsoYCr1WNH5LVmmfdYBoCBYLHWd1d2PBB3TolqT9gQjORt7f/YA==
+react-from-dom@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/react-from-dom/-/react-from-dom-0.5.1.tgz#5ab82944209059aded60dc26abf43f8989126fa2"
+  integrity sha512-ki6OGVgSjDCF0Gt4SMl2cUNBA9ZB8g59bwv9ZiSEXQ37Cw9ZGY0s7EgfPFQYDvaiVx22jto7/dYgQeS+Qw1Mfw==
 
 react-helmet-async@^1.0.2:
   version "1.0.4"
@@ -9849,13 +9849,13 @@ react-hotkeys@2.0.0:
   dependencies:
     prop-types "^15.6.1"
 
-react-inlinesvg@2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/react-inlinesvg/-/react-inlinesvg-2.2.1.tgz#acdc054609773c3f9abff118351def98aa92d3de"
-  integrity sha512-YBPARWW0t3pFbkAqEJc9+E+CpReNE4b496vMr9yafNxGN18MQjOARGIXBfvYGCKwYccqYLS4IXI9R0Yiqmwbtw==
+react-inlinesvg@2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/react-inlinesvg/-/react-inlinesvg-2.2.2.tgz#b43ac35ed9d0b6f60274b93049a5d091fd4384b6"
+  integrity sha512-5uXTB0yL9LiRLbN5FhTnL1IK9mLg93kspY2HnKUftzoJDEqZrlscuZxzXStbMBZpNyO359U7QDspM3AqUYUrog==
   dependencies:
     exenv "^1.2.2"
-    react-from-dom "^0.5.0"
+    react-from-dom "^0.5.1"
 
 react-input-autosize@^2.2.2:
   version "2.2.2"
