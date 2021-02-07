@@ -41,7 +41,7 @@
     "@storybook/addon-a11y": "6.1.17",
     "@storybook/addon-actions": "6.1.17",
     "@storybook/addon-backgrounds": "6.1.17",
-    "@storybook/addon-console": "1.2.2",
+    "@storybook/addon-console": "1.2.3",
     "@storybook/addon-knobs": "6.1.17",
     "@storybook/addon-links": "6.1.17",
     "@storybook/addon-notes": "5.3.21",
