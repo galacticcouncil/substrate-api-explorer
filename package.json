@@ -62,7 +62,7 @@
     "eslint-config-prettier": "7.2.0",
     "eslint-plugin-react": "7.22.0",
     "eslint-plugin-react-hooks": "4.2.0",
-    "html-webpack-plugin": "4.5.1",
+    "html-webpack-plugin": "5.1.0",
     "redux-devtools-extension": "2.13.8",
     "storybook-addon-react-docgen": "1.2.42",
     "style-loader": "2.0.0",
