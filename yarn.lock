@@ -2483,10 +2483,10 @@
     bn.js "^4.11.9"
     eventemitter3 "^4.0.7"
 
-"@polkadot/ts@0.3.60":
-  version "0.3.60"
-  resolved "https://registry.yarnpkg.com/@polkadot/ts/-/ts-0.3.60.tgz#6f668d73319abf5ecf62f695a35d3885b6dbcff4"
-  integrity sha512-Jke0u1G6bstGTiGoH8bC0Kk+Lcj4cO65a/XHLsWuLo26S+xQ8ztJVn2RIanIjGpi0z7lJ7CykzNi4866WPlBkA==
+"@polkadot/ts@0.3.61":
+  version "0.3.61"
+  resolved "https://registry.yarnpkg.com/@polkadot/ts/-/ts-0.3.61.tgz#ba33777df05cef6d01b4dd82b53f07735fc22f60"
+  integrity sha512-rQu9KJoXEanAQP5oLNWI0d6l6gg6M27C6yXQ66txF+7zETyW6SvVFsluGx6hQahe7C9XOzcuRp2+rucVL6hVrg==
   dependencies:
     "@types/chrome" "^0.0.133"
 
