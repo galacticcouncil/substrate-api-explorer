@@ -30,11 +30,11 @@
     "styled-components": "5.2.1"
   },
   "devDependencies": {
-    "@babel/core": "7.13.10",
+    "@babel/core": "7.13.13",
     "@babel/plugin-proposal-optional-chaining": "7.13.12",
     "@babel/plugin-transform-runtime": "7.13.10",
     "@babel/preset-env": "7.13.12",
-    "@babel/preset-react": "7.12.13",
+    "@babel/preset-react": "7.13.13",
     "@babel/preset-typescript": "7.13.0",
     "@polkadot/ts": "0.3.62",
     "@polkadot/types": "2.10.1",
