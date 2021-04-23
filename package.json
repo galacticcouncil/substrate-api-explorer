@@ -58,7 +58,7 @@
     "copy-webpack-plugin": "5.1.2",
     "css-loader": "5.2.4",
     "csstype": "3.0.8",
-    "eslint": "7.24.0",
+    "eslint": "7.25.0",
     "eslint-config-prettier": "7.2.0",
     "eslint-plugin-react": "7.23.2",
     "eslint-plugin-react-hooks": "4.2.0",
