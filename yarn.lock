@@ -2322,12 +2322,12 @@
     bn.js "^4.11.9"
     eventemitter3 "^4.0.7"
 
-"@polkadot/ts@0.3.64":
-  version "0.3.64"
-  resolved "https://registry.yarnpkg.com/@polkadot/ts/-/ts-0.3.64.tgz#e7c8acb9ab3cb0c15c2f5a5795f05b1076f043c1"
-  integrity sha512-CbSmskCAU0M/pFQIUwVWHMezGfRV6rHp718W0AgQi/bXACIJ2/r7PmScsta3Kh9JLtwrn+fGsUpKToOVct7aXA==
+"@polkadot/ts@0.3.65":
+  version "0.3.65"
+  resolved "https://registry.yarnpkg.com/@polkadot/ts/-/ts-0.3.65.tgz#e2acfd472a479541edf82f612641af8a5ae9bb92"
+  integrity sha512-kQ+ZPZiW9MbVZGIRGSwJya0RfPtK1MIQno+sbWz/ilTwGRWFiNyXIQhkRqZ9fj1sbeJOOZxwqjqiA/IoPkJnoQ==
   dependencies:
-    "@types/chrome" "^0.0.136"
+    "@types/chrome" "^0.0.137"
 
 "@polkadot/types-known@2.10.1":
   version "2.10.1"
@@ -3222,10 +3222,10 @@
   resolved "https://registry.yarnpkg.com/@types/braces/-/braces-3.0.0.tgz#7da1c0d44ff1c7eb660a36ec078ea61ba7eb42cb"
   integrity sha512-TbH79tcyi9FHwbyboOKeRachRq63mSuWYXOflsNO9ZyE5ClQ/JaozNKl+aWUq87qPNsXasXxi2AbgfwIJ+8GQw==
 
-"@types/chrome@^0.0.136":
-  version "0.0.136"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.136.tgz#7c011b9f997b0156f25a140188a0c5689d3f368f"
-  integrity sha512-XDEiRhLkMd+SB7Iw3ZUIj/fov3wLd4HyTdLltVszkgl1dBfc3Rb7oPMVZ2Mz2TLqnF7Ow+StbR8E7r9lqpb4DA==
+"@types/chrome@^0.0.137":
+  version "0.0.137"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.137.tgz#5ea73ee6e874880ecdfaccd5b378c541c7da87ec"
+  integrity sha512-rMJOMqdX+RvVcl/F8VV6amYkZVkGj9KXM1EWGi5XxB/xdNB47CwBwInaMKFm+mgftdO9XWR1m4zgHiR6nrIX5w==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
