@@ -13,7 +13,7 @@
   "author": "GalacticCouncil",
   "dependencies": {
     "@babel/polyfill": "7.12.1",
-    "@polkadot/api": "2.10.1",
+    "@polkadot/api": "4.17.1",
     "core-js": "3.15.2",
     "deep-object-diff": "1.1.0",
     "edgeware-node-types": "2.3.0",
