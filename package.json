@@ -48,7 +48,7 @@
     "@storybook/addon-viewport": "6.3.6",
     "@storybook/addons": "6.3.6",
     "@storybook/react": "6.3.6",
-    "@types/lodash": "4.14.171",
+    "@types/lodash": "4.14.172",
     "@types/react": "17.0.15",
     "@types/react-dom": "17.0.9",
     "@types/styled-components": "5.1.11",
