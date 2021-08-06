@@ -11648,10 +11648,10 @@ react-helmet-async@^1.0.7:
     react-fast-compare "^3.2.0"
     shallowequal "^1.1.0"
 
-react-hooks-lib@0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/react-hooks-lib/-/react-hooks-lib-0.5.0.tgz#b0a4359a5f507a953540519d21aaa227b4eae242"
-  integrity sha512-Nh3ZDHEZE/KW5jBjEbdkq5HbWYi89x4rHEm5TY928SX4e3tpCFP5YDWxi9V1CZ/1KkC+xx+LM9zgA4fYVT2iZw==
+react-hooks-lib@0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/react-hooks-lib/-/react-hooks-lib-0.6.0.tgz#5a799205319cd48c9b3367f5beae309ac96acebf"
+  integrity sha512-kOlJ0NxiZ+gFPf7DwBtW9yoxC6ZsCRfUFtarGRwUWvaAaFAc+5zJ8vy+pCLViwt222J0jas6PCZHOJgAhw3bMg==
   dependencies:
     lodash.isequal "^4.5.0"
     shallowequal "^1.1.0"
