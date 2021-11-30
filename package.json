@@ -51,7 +51,7 @@
     "@types/lodash": "4.14.177",
     "@types/react": "17.0.37",
     "@types/react-dom": "17.0.11",
-    "@types/styled-components": "5.1.15",
+    "@types/styled-components": "5.1.16",
     "@typescript-eslint/eslint-plugin": "4.29.3",
     "@typescript-eslint/parser": "4.29.3",
     "babel-loader": "8.2.3",
