@@ -37,7 +37,7 @@
     "@babel/preset-react": "7.16.0",
     "@babel/preset-typescript": "7.16.0",
     "@polkadot/ts": "0.3.68",
-    "@polkadot/types": "2.10.1",
+    "@polkadot/types": "6.12.1",
     "@storybook/addon-a11y": "6.4.9",
     "@storybook/addon-actions": "6.4.9",
     "@storybook/addon-backgrounds": "6.4.9",
